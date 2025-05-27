@@ -1,0 +1,25 @@
+body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+
+        .about-us {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .about-us h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        .about-us img {
+            width: 100%;
+            max-width: 300px;
+            display: block;
+            margin: 20px auto;
+        }
+
+        .about-us p {
+            line-height: 1.6;
+        }
